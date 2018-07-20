@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE corpus SYSTEM "multilingual-all-words.dtd">
+<corpus lang="en">
+<text id="d001" source="wsj_2465">
+  <sentence id="d001.s001"> We don't know who is winning the drug war in Latin America, but we know who's losing it -- the press .</sentence>
+  <sentence id="d001.s002"> Over the past six months, six journalists have been killed and 10 kidnapped by drug traffickers or leftist guerrillas -- who often are one and the same -- in Colombia.</sentence>
+  <sentence id="d001.s003"> Over the past 12 years, at least 40 journalists have died there.</sentence>
+</text>
+</corpus>

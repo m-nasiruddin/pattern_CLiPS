@@ -1,0 +1,5 @@
+NP [(u'The', u'DT'), (u'cat', u'NN')]
+VP [(u'sat', u'VBD')]
+PP [(u'on', u'IN')]
+NP [(u'the', u'DT'), (u'mat', u'NN')]
+
